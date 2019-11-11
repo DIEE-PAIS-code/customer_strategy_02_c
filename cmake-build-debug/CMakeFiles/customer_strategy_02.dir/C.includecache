@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/didaci/Documents/Didattica/Corsi (materiale)/PAIS/SLIDES/Design Pattern/02- STRATEGY - Open-Close/code/customer_strategy_02/customerModule.c
+customerModule.h
+/Users/didaci/Documents/Didattica/Corsi (materiale)/PAIS/SLIDES/Design Pattern/02- STRATEGY - Open-Close/code/customer_strategy_02/customerModule.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/didaci/Documents/Didattica/Corsi (materiale)/PAIS/SLIDES/Design Pattern/02- STRATEGY - Open-Close/code/customer_strategy_02/customerModule.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/didaci/Documents/Didattica/Corsi (materiale)/PAIS/SLIDES/Design Pattern/02- STRATEGY - Open-Close/code/customer_strategy_02/main.c
+stdio.h
+-
+customerModule.h
+/Users/didaci/Documents/Didattica/Corsi (materiale)/PAIS/SLIDES/Design Pattern/02- STRATEGY - Open-Close/code/customer_strategy_02/customerModule.h
+
